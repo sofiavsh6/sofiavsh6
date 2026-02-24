@@ -18,7 +18,8 @@ Modelado paramétrico y documentación técnica detallada.
 ### 🎨 Renderizado & Visualización (RT)
 Motor de renderizado para creación de recorridos virtuales y entornos fotorrealistas.
 
-![Twinmotion](https://img.shields.io/badge/Twinmotion-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Twinmotion](https://img.shields.io/badge/Twinmotion-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black)
+![D5 Render](https://img.shields.io/badge/D5_Render-91219E?style=for-the-badge&logo=d5render&logoColor=white)
 
 > "El mundo no es un ángulo recto."
 
